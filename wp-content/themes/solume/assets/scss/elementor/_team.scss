@@ -1,0 +1,113 @@
+.ova-team {
+	text-align: center;
+	&:hover {
+		.img-team {
+			.list-icon {
+				@include transaction( all, .5s, ease);
+				top: 50%;
+				opacity: 1;
+				visibility: visible;
+			}
+		}
+	}
+
+	.img-team {
+		position: relative;
+		img {
+			width: 100%;
+			display: block;
+			-webkit-mask-size: contain;
+		    -webkit-mask-position: center center;
+		    -webkit-mask-repeat: no-repeat;
+		    background-size: contain;
+		    background-position: center center;
+		    background-repeat: no-repeat;
+		}
+
+		.list-icon {
+			@include transaction( all, .5s, ease);
+	        position: absolute;
+	        top: 60%;
+	        left: 50%;
+	        width: 100%;
+	        transform: translate(-50%, -50%); 
+	        padding: 0;
+	        opacity: 0;
+	        visibility: hidden;
+
+	        ul {
+	            list-style: none;
+	            margin: 0;
+	            padding: 0;
+
+	            .item {
+	                display: inline-block;
+
+	                &:not(:last-child) {
+	                    margin-right: 8px;
+	                }
+
+	                a {
+	                    width: 40px;
+	                    height: 40px;
+	                    background-color: #fff;
+	                    border-radius: 50%;
+	                    color: var(--text);
+	                    display: flex;
+	                    align-items: center;
+	                    justify-content: center;
+	           
+	                    i {
+	                        font-size: 14px;
+	                    }
+
+	                    &:hover {
+	                        background-color: var(--primary);
+	                        color: #fff;
+	                    }
+	                }
+	            }
+	        }
+	    } 
+	}
+
+	.info {
+		.name {
+			font-size: 24px;
+			font-weight: 700;
+		}
+	}
+
+	&.ova-team-v2 {
+		&:hover {
+			.img-team {
+				&:before {
+					@include transaction( all, .5s, ease);
+	                opacity: 0.5;
+	                -webkit-transform: scaleY(1);
+				    transform: scaleY(1);
+				}
+			}
+		}
+		.img-team {
+			overflow: hidden;
+			border-radius: 20px;
+			background-color: var(--background);
+			&:before {
+				@include transaction( all, .5s, ease);
+                position: absolute;
+                top: 0;
+                left: 0;
+                content: "";
+                width: 100%;
+                height: 100%;
+                opacity: 0;
+                background-color: var(--heading);
+                -webkit-transform: scaleY(0.2);
+			    transform: scaleY(0.2);
+			    transform-origin: top;
+			}
+		}
+	}
+
+}

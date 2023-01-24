@@ -1,0 +1,39 @@
+.ova-number-box{
+	position: relative;
+	&.linetop{
+		&::before{
+			content: '';
+			position: relative;
+			left: 0;
+			top: 0;
+			margin-bottom: 23px;
+			width: 48px;
+			height: 3px;
+			display: block;
+			background: var(--primary);
+		}
+	}
+	
+	display: flex;
+	flex-flow: column;
+
+	.number{
+		color: var(--primary);
+		font-weight: 700;
+		font-size: 64px;
+		line-height: 1em;
+		margin: 0;
+		margin-bottom: 20px;
+	}
+	
+	.title{
+		margin: 0;
+		margin-bottom: 20px;
+		font-size: 24px;
+	}
+
+	.description{
+		margin: 0;
+	}
+
+}

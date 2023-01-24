@@ -1,0 +1,1351 @@
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: Solume\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2022-05-10 07:54+0000\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: \n"
+"Language: \n"
+"Plural-Forms: nplurals=INTEGER; plural=EXPRESSION;\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Loco https://localise.biz/\n"
+"X-Loco-Version: 2.6.1; wp-5.9.3\n"
+"X-Domain: solume"
+
+#: template-parts/parts/meta.php:54
+msgid " 0 Comments"
+msgstr ""
+
+#: template-parts/parts/meta.php:55
+msgid " 1 Comment"
+msgstr ""
+
+#: elementor/widgets/pricing.php:147
+msgid "/mo"
+msgstr ""
+
+#: elementor/widgets/counter.php:86
+msgid "200"
+msgstr ""
+
+#: inc/class-main.php:111
+msgctxt ": on or off"
+msgid "on"
+msgstr ""
+
+#: elementor/widgets/menu-canvas.php:188 elementor/widgets/menu-nav.php:141
+#: elementor/widgets/menu-nav.php:271 elementor/widgets/tabs.php:532
+#: elementor/widgets/tabs.php:853 elementor/widgets/toggle.php:365
+#: elementor/widgets/toggle.php:549 elementor/widgets/toggle.php:1001
+msgid "Active"
+msgstr ""
+
+#: elementor/widgets/toggle.php:763 elementor/widgets/toggle.php:875
+msgid "Active Color"
+msgstr ""
+
+#: elementor/widgets/toggle.php:125
+msgid "Active Icon"
+msgstr ""
+
+#: elementor/widgets/pricing.php:158
+msgid "Add list text service"
+msgstr ""
+
+#: elementor/widgets/counter.php:112 elementor/widgets/header-banner.php:266
+#: elementor/widgets/logo.php:79 elementor/widgets/tabs.php:166
+#: elementor/widgets/tabs.php:196 elementor/widgets/tabs.php:320
+#: elementor/widgets/tabs.php:770 elementor/widgets/toggle.php:711
+msgid "Alignment"
+msgstr ""
+
+#: inc/class-customize.php:645
+msgid "Archive"
+msgstr ""
+
+#: template-parts/parts/breadcrumbs.php:35
+msgid "Archive by date"
+msgstr ""
+
+#: template-parts/parts/breadcrumbs.php:40
+msgid "Archive by month"
+msgstr ""
+
+#: template-parts/parts/breadcrumbs.php:116
+msgid "Archive by tag"
+msgstr ""
+
+#: template-parts/parts/breadcrumbs.php:44
+msgid "Archive by year"
+msgstr ""
+
+#: inc/class-customize.php:1122
+msgid "Archive Layout"
+msgstr ""
+
+#: template-parts/parts/breadcrumbs.php:122
+msgid "Articles posted by"
+msgstr ""
+
+#: elementor/widgets/pricing.php:88
+msgid ""
+"As a process transformation company, we rethinks and rebuilds processes for "
+"the digital"
+msgstr ""
+
+#: inc/class-woo.php:159
+msgid "Awaiting product image"
+msgstr ""
+
+#: inc/class-customize.php:431 inc/class-elementor.php:153
+#: elementor/widgets/counter.php:149 elementor/widgets/counter.php:161
+#: elementor/widgets/menu-footer.php:94 elementor/widgets/menu-footer.php:237
+#: elementor/widgets/menu-nav.php:187 elementor/widgets/tabs.php:441
+#: elementor/widgets/tabs.php:496 elementor/widgets/tabs.php:551
+#: elementor/widgets/toggle.php:321 elementor/widgets/toggle.php:352
+#: elementor/widgets/toggle.php:383 elementor/widgets/toggle.php:516
+#: elementor/widgets/toggle.php:536 elementor/widgets/toggle.php:556
+#: elementor/widgets/toggle.php:968 elementor/widgets/toggle.php:988
+#: elementor/widgets/toggle.php:1008 elementor/widgets/toggle.php:1062
+msgid "Background"
+msgstr ""
+
+#: elementor/widgets/pricing-tab.php:137 elementor/widgets/pricing.php:271
+#: elementor/widgets/pricing.php:422 elementor/widgets/pricing.php:735
+#: elementor/widgets/tabs.php:295
+msgid "Background Color"
+msgstr ""
+
+#: elementor/widgets/pricing.php:282 elementor/widgets/pricing.php:746
+msgid "Background Color Hover"
+msgstr ""
+
+#: elementor/widgets/header-banner.php:120
+msgid "Background Cover Color"
+msgstr ""
+
+#: elementor/widgets/counter.php:175
+msgid "Background Hover"
+msgstr ""
+
+#: elementor/widgets/menu-nav.php:201
+msgid "Background Item Hover"
+msgstr ""
+
+#: elementor/widgets/tabs.php:464 elementor/widgets/tabs.php:519
+#: elementor/widgets/tabs.php:574
+msgid "Background Mobile"
+msgstr ""
+
+#: elementor/widgets/pricing.php:224
+msgid "Bank Transactions"
+msgstr ""
+
+#: elementor/widgets/toggle.php:817
+msgid "Before Icon"
+msgstr ""
+
+#: elementor/widgets/toggle.php:489
+msgid "Before Title Style"
+msgstr ""
+
+#: elementor/widgets/pricing-tab.php:48
+msgid "Billed Monthly"
+msgstr ""
+
+#: elementor/widgets/pricing-tab.php:67
+msgid "Billed Yearly"
+msgstr ""
+
+#: elementor/widgets/tabs.php:328
+msgid "Block"
+msgstr ""
+
+#: inc/class-customize.php:640 template-parts/parts/breadcrumbs.php:126
+#: template-parts/parts/breadcrumbs_title.php:13
+msgid "Blog"
+msgstr ""
+
+#: inc/class-customize.php:411 elementor/widgets/pricing.php:782
+#: elementor/widgets/tabs.php:346 elementor/widgets/tabs.php:589
+#: elementor/widgets/tabs.php:715 elementor/widgets/toggle.php:398
+#: elementor/widgets/toggle.php:1107
+msgid "Border"
+msgstr ""
+
+#: elementor/widgets/tabs.php:284 elementor/widgets/toggle.php:211
+msgid "Border Color"
+msgstr ""
+
+#: elementor/widgets/tabs.php:610 elementor/widgets/toggle.php:418
+msgid "Border Color Active"
+msgstr ""
+
+#: elementor/widgets/tabs.php:598 elementor/widgets/toggle.php:407
+msgid "Border Color Hover"
+msgstr ""
+
+#: elementor/widgets/pricing-tab.php:160
+msgid "Border Radisu"
+msgstr ""
+
+#: elementor/widgets/pricing.php:769 elementor/widgets/tabs.php:354
+#: elementor/widgets/tabs.php:622 elementor/widgets/tabs.php:966
+#: elementor/widgets/toggle.php:429 elementor/widgets/toggle.php:1022
+#: elementor/widgets/toggle.php:1116
+msgid "Border Radius"
+msgstr ""
+
+#: elementor/widgets/tabs.php:661
+msgid "Border Radius (first-child)"
+msgstr ""
+
+#: elementor/widgets/tabs.php:673
+msgid "Border Radius (last-child)"
+msgstr ""
+
+#: elementor/widgets/toggle.php:441
+msgid "Border Radius Active"
+msgstr ""
+
+#: elementor/widgets/tabs.php:264 elementor/widgets/toggle.php:193
+msgid "Border Width"
+msgstr ""
+
+#: elementor/widgets/counter.php:202 elementor/widgets/pricing.php:315
+msgid "Box Shadow"
+msgstr ""
+
+#: inc/class-hook.php:344
+msgid "Boxed"
+msgstr ""
+
+#: inc/class-customize.php:570
+msgid "Boxed Offset (px)"
+msgstr ""
+
+#: elementor/widgets/counter.php:105
+msgid "Brances in Country"
+msgstr ""
+
+#: elementor/widgets/header-banner.php:212
+msgid "Breadcrumbs Color"
+msgstr ""
+
+#: elementor/widgets/header-banner.php:227
+msgid "Breadcrumbs Color hover"
+msgstr ""
+
+#: elementor/widgets/header-banner.php:250
+msgid "Breadcrumbs Padding"
+msgstr ""
+
+#: elementor/widgets/header-banner.php:242
+msgid "Breadcrumbs Typography"
+msgstr ""
+
+#: elementor/widgets/menu-canvas.php:98 elementor/widgets/pricing.php:697
+msgid "Button"
+msgstr ""
+
+#: elementor/widgets/counter.php:120 elementor/widgets/header-banner.php:274
+#: elementor/widgets/logo.php:87 elementor/widgets/tabs.php:174
+#: elementor/widgets/tabs.php:204
+msgid "Center"
+msgstr ""
+
+#: elementor/widgets/tabs.php:75
+msgid "Choose Icon"
+msgstr ""
+
+#: elementor/widgets/tabs.php:86
+msgid "Choose Image"
+msgstr ""
+
+#: elementor/widgets/header-banner.php:168
+msgid "Choose Title Format"
+msgstr ""
+
+#: elementor/widgets/header-banner.php:294
+msgid "Class"
+msgstr ""
+
+#: install-resource/active-plugins.php:18
+msgid "CMB2"
+msgstr ""
+
+#: inc/class-customize.php:247 elementor/widgets/counter.php:241
+#: elementor/widgets/counter.php:295 elementor/widgets/counter.php:337
+#: elementor/widgets/counter.php:391 elementor/widgets/menu-footer.php:114
+#: elementor/widgets/menu-footer.php:134 elementor/widgets/menu-footer.php:257
+#: elementor/widgets/menu-footer.php:277 elementor/widgets/pricing-tab.php:103
+#: elementor/widgets/pricing-tab.php:126 elementor/widgets/pricing.php:343
+#: elementor/widgets/pricing.php:411 elementor/widgets/pricing.php:454
+#: elementor/widgets/pricing.php:485 elementor/widgets/pricing.php:516
+#: elementor/widgets/pricing.php:551 elementor/widgets/pricing.php:713
+#: elementor/widgets/tabs.php:429 elementor/widgets/tabs.php:484
+#: elementor/widgets/tabs.php:539 elementor/widgets/tabs.php:697
+#: elementor/widgets/tabs.php:818 elementor/widgets/tabs.php:839
+#: elementor/widgets/tabs.php:860 elementor/widgets/toggle.php:310
+#: elementor/widgets/toggle.php:341 elementor/widgets/toggle.php:372
+#: elementor/widgets/toggle.php:739 elementor/widgets/toggle.php:845
+#: elementor/widgets/toggle.php:1073
+msgid "Color"
+msgstr ""
+
+#: elementor/widgets/pricing.php:643 elementor/widgets/pricing.php:682
+msgid "Color Disable"
+msgstr ""
+
+#: elementor/widgets/pricing.php:632 elementor/widgets/pricing.php:671
+msgid "Color Enable"
+msgstr ""
+
+#: elementor/widgets/counter.php:252 elementor/widgets/counter.php:306
+#: elementor/widgets/counter.php:348 elementor/widgets/counter.php:402
+#: elementor/widgets/pricing.php:354 elementor/widgets/pricing.php:724
+msgid "Color Hover"
+msgstr ""
+
+#: elementor/widgets/tabs.php:453 elementor/widgets/tabs.php:508
+#: elementor/widgets/tabs.php:563
+msgid "Color Mobile"
+msgstr ""
+
+#: inc/class-hook.php:361
+msgid "Comment"
+msgstr ""
+
+#: template-parts/parts/meta.php:58
+msgid "Comment off"
+msgstr ""
+
+#: template-parts/parts/meta.php:56
+msgid "Comments"
+msgstr ""
+
+#: comments.php:55
+msgid "Comments are closed."
+msgstr ""
+
+#. 1: number of comments
+#: comments.php:16
+#, php-format
+msgctxt "comments title"
+msgid "%1$s Comment"
+msgid_plural "%1$s Comments"
+msgstr[0] ""
+msgstr[1] ""
+
+#: comments.php:12
+msgctxt "comments title"
+msgid "One Comment"
+msgstr ""
+
+#: install-resource/active-plugins.php:23
+msgid "Contact Form 7"
+msgstr ""
+
+#: elementor/widgets/contact-info.php:18
+msgid "Contact Info"
+msgstr ""
+
+#: inc/class-customize.php:499
+msgid "Container (px)"
+msgstr ""
+
+#: elementor/widgets/header-banner.php:92 elementor/widgets/heading.php:38
+#: elementor/widgets/pricing-tab.php:38 elementor/widgets/pricing-tab.php:55
+#: elementor/widgets/pricing-tab.php:74 elementor/widgets/pricing.php:40
+#: elementor/widgets/pricing.php:263 elementor/widgets/tabs.php:111
+#: elementor/widgets/tabs.php:689 elementor/widgets/toggle.php:55
+#: elementor/widgets/toggle.php:1054
+msgid "Content"
+msgstr ""
+
+#: elementor/widgets/pricing.php:95
+msgid "Currency Symbol"
+msgstr ""
+
+#: inc/class-customize.php:201 inc/class-customize.php:213
+#: inc/class-customize.php:230
+msgid "Custom Font"
+msgstr ""
+
+#: elementor/widgets/pricing.php:125
+msgid "Custom Symbol"
+msgstr ""
+
+#: elementor/widgets/logo.php:52
+msgid "Custom URL"
+msgstr ""
+
+#: inc/class-customize.php:666 inc/class-elementor.php:112
+#: inc/class-hook.php:170 inc/class-hook.php:201
+msgid "Default"
+msgstr ""
+
+#: elementor/widgets/pricing.php:86 elementor/widgets/pricing.php:500
+msgid "Description"
+msgstr ""
+
+#: template-parts/footer-default.php:4
+msgid "Design and Develop by Ovatheme"
+msgstr ""
+
+#: elementor/widgets/logo.php:108
+msgid "Desktop Logo"
+msgstr ""
+
+#: elementor/widgets/logo.php:152
+msgid "Desktop Logo Height"
+msgstr ""
+
+#: elementor/widgets/logo.php:132
+msgid "Desktop Logo Width"
+msgstr ""
+
+#: elementor/widgets/pricing.php:218
+msgid "Detailed Risk Profiling"
+msgstr ""
+
+#: elementor/widgets/header-banner.php:109
+msgid "Display Background by Feature Image in Post/Page"
+msgstr ""
+
+#: elementor/widgets/header-banner.php:100
+msgid "Display Boxed Content"
+msgstr ""
+
+#: elementor/widgets/header-banner.php:177
+msgid "DIV"
+msgstr ""
+
+#: template-parts/parts/comment.php:50
+msgid "Edit"
+msgstr ""
+
+#: install-resource/active-plugins.php:13
+msgid "Elementor"
+msgstr ""
+
+#: inc/class-hook.php:388
+msgid "Email"
+msgstr ""
+
+#: elementor/widgets/tabs.php:178 elementor/widgets/tabs.php:208
+#: elementor/widgets/tabs.php:778 elementor/widgets/toggle.php:719
+msgid "End"
+msgstr ""
+
+#: elementor/widgets/pricing.php:221
+msgid "Enter Unlimited Bils"
+msgstr ""
+
+#: inc/class-customize.php:146
+msgid "Example: 0px, 0.5em"
+msgstr ""
+
+#: inc/class-customize.php:107
+msgid "Example: 16px, 1.2em"
+msgstr ""
+
+#: elementor/widgets/toggle.php:174
+msgid "FAQ Schema"
+msgstr ""
+
+#: elementor/widgets/pricing.php:227
+msgid "Financial Strategy"
+msgstr ""
+
+#: elementor/widgets/tabs.php:324
+msgid "Flex"
+msgstr ""
+
+#: inc/class-elementor.php:81
+msgid "Flip"
+msgstr ""
+
+#: inc/class-customize.php:106
+msgid "Font Size"
+msgstr ""
+
+#: inc/class-customize.php:611 inc/class-customize.php:889
+#: inc/class-customize.php:1101
+msgid "Footer"
+msgstr ""
+
+#: inc/class-customize.php:625
+msgid "Footer Default"
+msgstr ""
+
+#: elementor/widgets/tabs.php:233
+msgid "General"
+msgstr ""
+
+#: elementor/widgets/pricing.php:253
+msgid "Get Started"
+msgstr ""
+
+#: elementor/widgets/menu-canvas.php:40 elementor/widgets/menu-nav.php:36
+msgid "Global"
+msgstr ""
+
+#: inc/class-customize.php:667
+msgid "Grid"
+msgstr ""
+
+#: elementor/widgets/header-banner.php:171
+msgid "H1"
+msgstr ""
+
+#: elementor/widgets/header-banner.php:172
+msgid "H2"
+msgstr ""
+
+#: elementor/widgets/header-banner.php:173
+msgid "H3"
+msgstr ""
+
+#: elementor/widgets/header-banner.php:174
+msgid "H4"
+msgstr ""
+
+#: elementor/widgets/header-banner.php:175
+msgid "H5"
+msgstr ""
+
+#: elementor/widgets/header-banner.php:176
+msgid "H6"
+msgstr ""
+
+#: inc/class-customize.php:583 inc/class-customize.php:872
+#: inc/class-customize.php:1084
+msgid "Header"
+msgstr ""
+
+#: elementor/widgets/header-banner.php:42
+msgid "Header Banner"
+msgstr ""
+
+#: inc/class-customize.php:597
+msgid "Header Default"
+msgstr ""
+
+#: inc/class-elementor.php:32
+msgid "Header Footer"
+msgstr ""
+
+#: inc/class-customize.php:369 elementor/widgets/heading.php:17
+msgid "Heading"
+msgstr ""
+
+#: elementor/widgets/tabs.php:938 elementor/widgets/toggle.php:600
+msgid "Height"
+msgstr ""
+
+#: inc/class-elementor.php:82
+msgid "Helix"
+msgstr ""
+
+#: elementor/widgets/toggle.php:480 elementor/widgets/toggle.php:923
+msgid "Hide"
+msgstr ""
+
+#: template-parts/parts/breadcrumbs.php:13
+#: template-parts/parts/breadcrumbs.php:180
+#: template-parts/parts/breadcrumbs_title.php:5
+#: template-parts/parts/breadcrumbs_title.php:9
+msgid "Home"
+msgstr ""
+
+#: elementor/widgets/logo.php:50
+msgid "Home Page"
+msgstr ""
+
+#: elementor/widgets/tabs.php:155
+msgid "Horizontal"
+msgstr ""
+
+#: elementor/widgets/menu-canvas.php:164 elementor/widgets/menu-footer.php:127
+#: elementor/widgets/menu-footer.php:270 elementor/widgets/menu-nav.php:116
+#: elementor/widgets/menu-nav.php:247 elementor/widgets/tabs.php:477
+#: elementor/widgets/tabs.php:832 elementor/widgets/toggle.php:334
+#: elementor/widgets/toggle.php:529 elementor/widgets/toggle.php:981
+msgid "Hover"
+msgstr ""
+
+#: elementor/widgets/pricing.php:305
+msgid "Hover Animation"
+msgstr ""
+
+#: elementor/widgets/toggle.php:751 elementor/widgets/toggle.php:860
+msgid "Hover Color"
+msgstr ""
+
+#. URI of the theme
+msgid "https://themeforest.net/user/ovatheme/portfolio"
+msgstr ""
+
+#: elementor/widgets/logo.php:68 elementor/widgets/pricing.php:243
+msgid "https://your-link.com"
+msgstr ""
+
+#: inc/class-elementor.php:127
+msgid "Icomoon"
+msgstr ""
+
+#: elementor/widgets/counter.php:72 elementor/widgets/counter.php:214
+#: elementor/widgets/pricing.php:62 elementor/widgets/pricing.php:177
+#: elementor/widgets/pricing.php:192 elementor/widgets/pricing.php:381
+#: elementor/widgets/pricing.php:605 elementor/widgets/tabs.php:59
+#: elementor/widgets/tabs.php:790 elementor/widgets/toggle.php:97
+#: elementor/widgets/toggle.php:700 elementor/widgets/toggle.php:826
+msgid "Icon"
+msgstr ""
+
+#: elementor/widgets/tabs.php:51 elementor/widgets/tabs.php:762
+msgid "Icon/Image"
+msgstr ""
+
+#: elementor/widgets/logo.php:39 elementor/widgets/tabs.php:63
+#: elementor/widgets/tabs.php:901
+msgid "Image"
+msgstr ""
+
+#: template-parts/404.php:5 template-parts/post/content-none.php:14
+msgid ""
+"It seems we can&rsquo;t find what you&rsquo;re looking for. Perhaps "
+"searching can help."
+msgstr ""
+
+#: elementor/widgets/menu-footer.php:180 elementor/widgets/menu-footer.php:202
+msgid "Item gap"
+msgstr ""
+
+#: elementor/widgets/tabs.php:182 elementor/widgets/tabs.php:212
+msgid "Justified"
+msgstr ""
+
+#: elementor/widgets/pricing-tab.php:46 elementor/widgets/pricing-tab.php:65
+#: elementor/widgets/pricing-tab.php:87
+msgid "Label"
+msgstr ""
+
+#: inc/class-customize.php:464 inc/class-customize.php:516
+#: inc/class-customize.php:854 inc/class-customize.php:913
+msgid "Layout"
+msgstr ""
+
+#: elementor/widgets/counter.php:116 elementor/widgets/header-banner.php:270
+#: elementor/widgets/logo.php:83 elementor/widgets/menu-canvas.php:69
+#: elementor/widgets/toggle.php:656
+msgid "Left"
+msgstr ""
+
+#: inc/class-customize.php:1129 inc/class-customize.php:1197
+#: inc/class-hook.php:234
+msgid "Left Sidebar"
+msgstr ""
+
+#: inc/class-customize.php:145
+msgid "Letter Spacing"
+msgstr ""
+
+#: inc/class-customize.php:391
+msgid "Light"
+msgstr ""
+
+#: inc/class-customize.php:125
+msgid "Line height"
+msgstr ""
+
+#: elementor/widgets/logo.php:47 elementor/widgets/logo.php:63
+msgid "Link"
+msgstr ""
+
+#: elementor/widgets/pricing.php:238
+msgid "Link Button"
+msgstr ""
+
+#: elementor/widgets/pricing.php:207 elementor/widgets/pricing.php:578
+msgid "List Text Service"
+msgstr ""
+
+#: customize/custom-control/google-font.php:122
+msgid "Load Font Weight"
+msgstr ""
+
+#: inc/class-woo.php:174
+msgid "Login"
+msgstr ""
+
+#: elementor/widgets/logo.php:19
+msgid "Logo"
+msgstr ""
+
+#: inc/class-customize.php:45
+msgid "Logo Default"
+msgstr ""
+
+#: elementor/widgets/tabs.php:128 elementor/widgets/tabs.php:132
+#: elementor/widgets/toggle.php:74 elementor/widgets/toggle.php:78
+msgid ""
+"Lorem ipsum dolor sit amet, consectetur adipiscing elit. Ut elit tellus, "
+"luctus nec ullamcorper mattis, pulvinar dapibus leo."
+msgstr ""
+
+#: install-resource/active-plugins.php:44
+msgid "Mailchimp"
+msgstr ""
+
+#: inc/class-widgets.php:20 inc/class-widgets.php:22
+msgid "Main Sidebar"
+msgstr ""
+
+#: elementor/widgets/counter.php:263 elementor/widgets/menu-footer.php:148
+#: elementor/widgets/menu-footer.php:291 elementor/widgets/pricing-tab.php:148
+#: elementor/widgets/pricing.php:562 elementor/widgets/tabs.php:378
+#: elementor/widgets/tabs.php:648 elementor/widgets/tabs.php:745
+#: elementor/widgets/tabs.php:888 elementor/widgets/tabs.php:992
+#: elementor/widgets/toggle.php:260 elementor/widgets/toggle.php:465
+#: elementor/widgets/toggle.php:682 elementor/widgets/toggle.php:805
+#: elementor/widgets/toggle.php:905 elementor/widgets/toggle.php:1037
+#: elementor/widgets/toggle.php:1140
+msgid "Margin"
+msgstr ""
+
+#: elementor/widgets/toggle.php:1152
+msgid "Margin (p, h1... h6)"
+msgstr ""
+
+#: inc/class-customize.php:668
+msgid "Masonry"
+msgstr ""
+
+#: template-parts/header-default.php:22 elementor/widgets/menu-footer.php:44
+#: elementor/widgets/menu-footer.php:86 elementor/widgets/menu-nav.php:16
+#: elementor/widgets/menu-nav.php:316
+msgid "Menu"
+msgstr ""
+
+#: elementor/widgets/menu-canvas.php:113
+msgid "Menu Background"
+msgstr ""
+
+#: elementor/widgets/menu-canvas.php:16
+msgid "Menu Canvas"
+msgstr ""
+
+#: elementor/widgets/menu-canvas.php:148 elementor/widgets/menu-canvas.php:171
+#: elementor/widgets/menu-canvas.php:195 elementor/widgets/menu-nav.php:98
+#: elementor/widgets/menu-nav.php:123 elementor/widgets/menu-nav.php:148
+#: elementor/widgets/menu-nav.php:229 elementor/widgets/menu-nav.php:254
+#: elementor/widgets/menu-nav.php:278
+msgid "Menu Color"
+msgstr ""
+
+#: elementor/widgets/menu-canvas.php:65
+msgid "Menu Direction"
+msgstr ""
+
+#: elementor/widgets/menu-footer.php:20
+msgid "Menu Footer"
+msgstr ""
+
+#: elementor/widgets/logo.php:175
+msgid "Mobile Logo"
+msgstr ""
+
+#: elementor/widgets/logo.php:210
+msgid "Mobile Logo Height"
+msgstr ""
+
+#: elementor/widgets/logo.php:190
+msgid "Mobile Logo Width"
+msgstr ""
+
+#: inc/class-elementor.php:77
+msgid "Move Down"
+msgstr ""
+
+#: inc/class-elementor.php:78
+msgid "Move Left"
+msgstr ""
+
+#: inc/class-elementor.php:79
+msgid "Move Right"
+msgstr ""
+
+#: inc/class-elementor.php:76
+msgid "Move Up"
+msgstr ""
+
+#: inc/class-hook.php:379
+msgid "Name"
+msgstr ""
+
+#: elementor/widgets/tabs.php:312
+msgid "Navigation"
+msgstr ""
+
+#: elementor/widgets/tabs.php:241
+msgid "Navigation Width"
+msgstr ""
+
+#: inc/class-customize.php:485 inc/class-customize.php:689
+#: inc/class-customize.php:710 inc/class-customize.php:731
+#: inc/class-customize.php:752 inc/class-customize.php:773
+#: inc/class-customize.php:794 inc/class-customize.php:816
+#: inc/class-customize.php:837 inc/class-customize.php:941
+#: inc/class-customize.php:962 inc/class-customize.php:983
+#: inc/class-customize.php:1004 inc/class-customize.php:1025
+#: inc/class-customize.php:1046 inc/class-customize.php:1067
+#: inc/class-customize.php:1168 inc/class-customize.php:1218
+msgid "No"
+msgstr ""
+
+#: inc/class-customize.php:1127 inc/class-customize.php:1195
+#: inc/class-hook.php:232
+msgid "No Sidebar"
+msgstr ""
+
+#: elementor/widgets/logo.php:51 elementor/widgets/tabs.php:55
+#: elementor/widgets/tabs.php:332
+msgid "None"
+msgstr ""
+
+#: elementor/widgets/menu-canvas.php:141 elementor/widgets/menu-footer.php:107
+#: elementor/widgets/menu-footer.php:250 elementor/widgets/menu-nav.php:91
+#: elementor/widgets/menu-nav.php:222 elementor/widgets/tabs.php:422
+#: elementor/widgets/tabs.php:811 elementor/widgets/toggle.php:303
+#: elementor/widgets/toggle.php:509 elementor/widgets/toggle.php:961
+msgid "Normal"
+msgstr ""
+
+#: template-parts/post/content-none.php:3
+msgid "Nothing Found"
+msgstr ""
+
+#: elementor/widgets/counter.php:84 elementor/widgets/counter.php:279
+msgid "Number"
+msgstr ""
+
+#: install-resource/active-plugins.php:33
+msgid "One click demo import"
+msgstr ""
+
+#: elementor/widgets/counter.php:22 elementor/widgets/counter.php:50
+#: elementor/widgets/counter.php:140
+msgid "Ova Counter"
+msgstr ""
+
+#: inc/class-elementor.php:146
+msgid "Ova Icon"
+msgstr ""
+
+#. Author of the theme
+msgid "Ovatheme"
+msgstr ""
+
+#: install-resource/active-plugins.php:38
+msgid "OvaTheme Framework"
+msgstr ""
+
+#: elementor/widgets/counter.php:189 elementor/widgets/counter.php:359
+#: elementor/widgets/counter.php:413 elementor/widgets/menu-footer.php:160
+#: elementor/widgets/menu-footer.php:303 elementor/widgets/pricing.php:293
+#: elementor/widgets/pricing.php:365 elementor/widgets/pricing.php:527
+#: elementor/widgets/pricing.php:757 elementor/widgets/tabs.php:366
+#: elementor/widgets/tabs.php:635 elementor/widgets/tabs.php:731
+#: elementor/widgets/tabs.php:875 elementor/widgets/tabs.php:979
+#: elementor/widgets/toggle.php:248 elementor/widgets/toggle.php:453
+#: elementor/widgets/toggle.php:793 elementor/widgets/toggle.php:890
+#: elementor/widgets/toggle.php:1128
+msgid "Padding"
+msgstr ""
+
+#: template-parts/page.php:23
+msgid "Page"
+msgstr ""
+
+#: template-parts/parts/breadcrumbs.php:130
+msgid "Page not found"
+msgstr ""
+
+#: template-parts/parts/breadcrumbs_title.php:36
+msgid "page not found"
+msgstr ""
+
+#: template-parts/page.php:19 template-parts/parts/content.php:4
+msgid "Pages:"
+msgstr ""
+
+#: elementor/widgets/menu-nav.php:67
+msgid "Parent Menu"
+msgstr ""
+
+#: elementor/widgets/pricing.php:145 elementor/widgets/pricing.php:469
+msgid "Period"
+msgstr ""
+
+#: elementor/widgets/pricing.php:79
+msgid "Personal"
+msgstr ""
+
+#: elementor/widgets/counter.php:95
+msgid "Plus"
+msgstr ""
+
+#: inc/class-elementor.php:83
+msgid "PopUp"
+msgstr ""
+
+#: elementor/widgets/tabs.php:151
+msgid "Position"
+msgstr ""
+
+#: inc/class-customize.php:479
+msgid "Preload"
+msgstr ""
+
+#: elementor/widgets/pricing.php:136 elementor/widgets/pricing.php:438
+msgid "Price"
+msgstr ""
+
+#: elementor/widgets/pricing.php:19
+msgid "Pricing"
+msgstr ""
+
+#: elementor/widgets/pricing-tab.php:17
+msgid "Pricing Tab"
+msgstr ""
+
+#: inc/class-customize.php:266
+msgid "Primary"
+msgstr ""
+
+#: inc/class-customize.php:160 inc/class-customize.php:176
+msgid "Primary Font"
+msgstr ""
+
+#: inc/class-customize.php:287
+msgid "Primary Hover"
+msgstr ""
+
+#: inc/class-main.php:90
+msgid "Primary Menu"
+msgstr ""
+
+#: inc/class-customize.php:1175
+msgid "Product detail"
+msgstr ""
+
+#: template-parts/parts/readmore.php:2
+msgid "Read more"
+msgstr ""
+
+#: template-parts/post/content-none.php:10
+#, php-format
+msgid ""
+"Ready to publish your first post? <a href=\"%1$s\">Get started here</a>."
+msgstr ""
+
+#: inc/class-customize.php:126
+msgid "Recommend use em. Example: 1.6em, 23px"
+msgstr ""
+
+#: inc/class-woo.php:180
+msgid "Register"
+msgstr ""
+
+#: elementor/widgets/pricing.php:215
+msgid "Revoke Dokument Access"
+msgstr ""
+
+#: elementor/widgets/counter.php:124 elementor/widgets/header-banner.php:278
+#: elementor/widgets/logo.php:91 elementor/widgets/menu-canvas.php:73
+msgid "Right"
+msgstr ""
+
+#: inc/class-customize.php:1128 inc/class-customize.php:1196
+#: inc/class-hook.php:233
+msgid "Right Sidebar"
+msgstr ""
+
+#: inc/class-elementor.php:80
+msgid "Scale Up"
+msgstr ""
+
+#: template-parts/parts/breadcrumbs_title.php:17
+msgid "Search"
+msgstr ""
+
+#: template-parts/parts/breadcrumbs.php:72
+msgid "Search results for"
+msgstr ""
+
+#: template-parts/search.php:7
+msgid "Search Results for: "
+msgstr ""
+
+#: inc/class-customize.php:308
+msgid "Secondary"
+msgstr ""
+
+#: inc/class-customize.php:451
+msgid "Secondary Background"
+msgstr ""
+
+#: inc/class-customize.php:328
+msgid "Secondary Hover"
+msgstr ""
+
+#: elementor/widgets/menu-canvas.php:54 elementor/widgets/menu-footer.php:70
+#: elementor/widgets/menu-nav.php:50
+msgid "Select Menu"
+msgstr ""
+
+#: elementor/widgets/pricing.php:543
+msgid "Shape"
+msgstr ""
+
+#: template-parts/parts/tags.php:12
+msgid "Share: "
+msgstr ""
+
+#: elementor/widgets/pricing-tab.php:56 elementor/widgets/pricing-tab.php:75
+msgid "Shortcode Pricing"
+msgstr ""
+
+#: elementor/widgets/toggle.php:479 elementor/widgets/toggle.php:922
+msgid "Show"
+msgstr ""
+
+#: inc/class-customize.php:767 inc/class-customize.php:1019
+msgid "Show Author"
+msgstr ""
+
+#: elementor/widgets/toggle.php:477
+msgid "Show Before Title"
+msgstr ""
+
+#: elementor/widgets/toggle.php:920
+msgid "Show Border Icon"
+msgstr ""
+
+#: elementor/widgets/header-banner.php:201
+msgid "Show Breadcrumbs"
+msgstr ""
+
+#: inc/class-customize.php:746 inc/class-customize.php:998
+msgid "Show Category"
+msgstr ""
+
+#: inc/class-customize.php:788 inc/class-customize.php:1040
+msgid "Show Comment"
+msgstr ""
+
+#: inc/class-customize.php:725 inc/class-customize.php:977
+msgid "Show Date"
+msgstr ""
+
+#: inc/class-customize.php:810
+msgid "Show Excerpt"
+msgstr ""
+
+#: inc/class-customize.php:683 inc/class-customize.php:935
+msgid "Show Media"
+msgstr ""
+
+#: inc/class-customize.php:831
+msgid "Show Read More"
+msgstr ""
+
+#: inc/class-customize.php:1061
+msgid "Show Tag"
+msgstr ""
+
+#: inc/class-customize.php:704 inc/class-customize.php:956
+#: elementor/widgets/header-banner.php:135
+msgid "Show Title"
+msgstr ""
+
+#: inc/class-customize.php:1162 inc/class-customize.php:1212
+msgid "Show/Hide Title"
+msgstr ""
+
+#: inc/class-customize.php:533 inc/class-customize.php:1145
+msgid "Sidebar Width (px)"
+msgstr ""
+
+#: inc/class-customize.php:898
+msgid "Single"
+msgstr ""
+
+#: inc/class-customize.php:1190
+msgid "Single Layout"
+msgstr ""
+
+#: elementor/widgets/counter.php:222 elementor/widgets/pricing.php:392
+#: elementor/widgets/pricing.php:613
+msgid "Size"
+msgstr ""
+
+#. Name of the theme
+#: inc/class-elementor.php:40
+msgid "Solume"
+msgstr ""
+
+#. Description of the theme
+msgid ""
+"Solume is a modernized take on an ever-popular WordPress. It has custom "
+"color options with beautiful default color schemes, a harmonious fluid grid "
+"using a mobile-first approach, and impeccable polish in every detail. Solume "
+"will make your WordPress look beautiful everywhere. Created by <a "
+"href=\"https://themeforest.net/user/ovatheme\">Ovatheme</a>"
+msgstr ""
+
+#: template-parts/search.php:29
+msgid ""
+"Sorry, but nothing matched your search terms. Please try again with some "
+"different keywords."
+msgstr ""
+
+#: template-parts/page.php:34
+msgid "Sorry, no pages matched your criteria."
+msgstr ""
+
+#: elementor/widgets/pricing.php:586 elementor/widgets/toggle.php:223
+msgid "Space Between"
+msgstr ""
+
+#: elementor/widgets/toggle.php:775
+msgid "Spacing"
+msgstr ""
+
+#: elementor/widgets/tabs.php:170 elementor/widgets/tabs.php:200
+#: elementor/widgets/tabs.php:774 elementor/widgets/toggle.php:715
+msgid "Start"
+msgstr ""
+
+#: inc/class-customize.php:231
+msgid ""
+"Step 1: Insert font-face in style.css file: Refer https://www.w3schools."
+"com/cssref/css3_pr_font-face_rule.asp. Step 2: Insert font-family and font-"
+"weight like format: \n"
+"\t\t\t\t\t\t\t[\"Perpetua\", \"Regular:Bold:Italic:Light\"] | [\"Name-Font\","
+" \"Regular:Bold:Italic:Light\"]. Step 3: Refresh customize page to display "
+"new font in dropdown font field."
+msgstr ""
+
+#: elementor/widgets/logo.php:242
+msgid "Sticky Logo"
+msgstr ""
+
+#: elementor/widgets/logo.php:279
+msgid "Sticky Logo Height"
+msgstr ""
+
+#: elementor/widgets/logo.php:259
+msgid "Sticky Logo Width"
+msgstr ""
+
+#: elementor/widgets/menu-canvas.php:89
+msgid "Style"
+msgstr ""
+
+#: elementor/widgets/menu-footer.php:229 elementor/widgets/menu-nav.php:170
+msgid "Sub Menu"
+msgstr ""
+
+#: elementor/widgets/counter.php:93 elementor/widgets/counter.php:321
+msgid "Suffix"
+msgstr ""
+
+#: elementor/widgets/pricing.php:212
+msgid "Support Your Business"
+msgstr ""
+
+#: elementor/widgets/pricing-tab.php:118
+msgid "Switch Button"
+msgstr ""
+
+#: elementor/widgets/tabs.php:127
+msgid "Tab #1"
+msgstr ""
+
+#: elementor/widgets/tabs.php:131
+msgid "Tab #2"
+msgstr ""
+
+#: elementor/widgets/tabs.php:112 elementor/widgets/tabs.php:113
+msgid "Tab Content"
+msgstr ""
+
+#: elementor/widgets/tabs.php:99 elementor/widgets/tabs.php:100
+msgid "Tab Title"
+msgstr ""
+
+#: elementor/widgets/tabs.php:40
+msgid "Tabs"
+msgstr ""
+
+#: elementor/widgets/tabs.php:122
+msgid "Tabs Items"
+msgstr ""
+
+#: template-parts/parts/breadcrumbs_title.php:25
+msgid "Tags"
+msgstr ""
+
+#: elementor/widgets/counter.php:59
+msgid "Template"
+msgstr ""
+
+#: elementor/widgets/counter.php:63
+msgid "Template 1"
+msgstr ""
+
+#: elementor/widgets/counter.php:64
+msgid "Template 2"
+msgstr ""
+
+#: inc/class-customize.php:349
+msgid "Text"
+msgstr ""
+
+#: elementor/widgets/pricing.php:251
+msgid "Text Button"
+msgstr ""
+
+#: inc/class-customize.php:88
+msgid "Text Font"
+msgstr ""
+
+#: elementor/widgets/pricing.php:156 elementor/widgets/pricing.php:654
+msgid "Text Service"
+msgstr ""
+
+#: inc/class-customize.php:598 inc/class-customize.php:626
+msgid "This isn't effect in Blog"
+msgstr ""
+
+#: elementor/widgets/counter.php:103 elementor/widgets/counter.php:375
+#: elementor/widgets/pricing.php:77 elementor/widgets/pricing.php:327
+#: elementor/widgets/tabs.php:394 elementor/widgets/toggle.php:275
+msgid "Title"
+msgstr ""
+
+#: elementor/widgets/tabs.php:97 elementor/widgets/toggle.php:42
+msgid "Title & Description"
+msgstr ""
+
+#: elementor/widgets/header-banner.php:145
+msgid "Title Color"
+msgstr ""
+
+#: elementor/widgets/toggle.php:155
+msgid "Title HTML Tag"
+msgstr ""
+
+#: elementor/widgets/header-banner.php:157
+msgid "Title Padding"
+msgstr ""
+
+#: elementor/widgets/header-banner.php:191
+msgid "Title Typo"
+msgstr ""
+
+#: elementor/widgets/toggle.php:33 elementor/widgets/toggle.php:185
+msgid "Toggle"
+msgstr ""
+
+#: elementor/widgets/toggle.php:73
+msgid "Toggle #1"
+msgstr ""
+
+#: elementor/widgets/toggle.php:77
+msgid "Toggle #2"
+msgstr ""
+
+#: elementor/widgets/toggle.php:57
+msgid "Toggle Content"
+msgstr ""
+
+#: elementor/widgets/toggle.php:68
+msgid "Toggle Items"
+msgstr ""
+
+#: elementor/widgets/toggle.php:44
+msgid "Toggle Title"
+msgstr ""
+
+#: elementor/widgets/toggle.php:630
+msgid "Top"
+msgstr ""
+
+#: inc/class-customize.php:661
+msgid "Type"
+msgstr ""
+
+#: inc/class-customize.php:59
+msgid "Typography"
+msgstr ""
+
+#: elementor/widgets/tabs.php:156
+msgid "Vertical"
+msgstr ""
+
+#: elementor/widgets/tabs.php:142 elementor/widgets/toggle.php:88
+msgid "View"
+msgstr ""
+
+#: inc/class-hook.php:397
+msgid "Website"
+msgstr ""
+
+#: inc/class-hook.php:343
+msgid "Wide"
+msgstr ""
+
+#: inc/class-customize.php:552
+msgid "Wide Site"
+msgstr ""
+
+#: install-resource/active-plugins.php:28
+msgid "Widget importer exporter"
+msgstr ""
+
+#: elementor/widgets/tabs.php:910 elementor/widgets/toggle.php:570
+#: elementor/widgets/toggle.php:932
+msgid "Width"
+msgstr ""
+
+#: inc/class-widgets.php:33 inc/class-widgets.php:35
+msgid "WooCommerce Sidebar"
+msgstr ""
+
+#: inc/class-customize.php:484 inc/class-customize.php:688
+#: inc/class-customize.php:709 inc/class-customize.php:730
+#: inc/class-customize.php:751 inc/class-customize.php:772
+#: inc/class-customize.php:793 inc/class-customize.php:815
+#: inc/class-customize.php:836 inc/class-customize.php:940
+#: inc/class-customize.php:961 inc/class-customize.php:982
+#: inc/class-customize.php:1003 inc/class-customize.php:1024
+#: inc/class-customize.php:1045 inc/class-customize.php:1066
+#: inc/class-customize.php:1167 inc/class-customize.php:1217
+msgid "Yes"
+msgstr ""
+
+#: elementor/widgets/header-banner.php:123
+msgid "You can add background image in Advanced Tab"
+msgstr ""
+
+#: template-parts/parts/comment.php:21
+msgid "Your comment is awaiting moderation."
+msgstr ""

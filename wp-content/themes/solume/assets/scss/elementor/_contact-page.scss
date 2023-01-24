@@ -1,0 +1,111 @@
+.ova-contact-page{
+    
+    position: relative;
+    .contact{
+        position: absolute;
+        width: 50% !important;
+        top: 0;
+        right: 0;
+        @media(max-width: 767px){
+            position: relative;
+            width: 100% !important;
+            height: auto;
+            padding: 30px 0px;
+        }
+    }
+    .contact-form{
+      
+        background: #fff;
+        padding: 48px;
+        box-shadow: 0px 1px 45px rgb(0 0 0 / 7%);
+        height: 700px;
+       
+        @media(max-width: 1024px){
+            padding-right: 15px;
+        }
+        @media(max-width: 767px){
+            padding: 30px 15px;
+        }
+        
+        span{
+            input{
+                width: 100%;        
+                padding-left: 24px;
+                border-radius: 100px;
+                padding-top: 17px;
+                padding-bottom: 17px;
+                &::placeholder { /* Chrome, Firefox, Opera, Safari 10.1+ */
+                    color: var(--text);
+                    opacity: 1; /* Firefox */
+                  }
+            }
+            textarea{
+                resize: none;
+                border-radius: 20px;
+                height: 220px;
+                padding-left: 24px;
+                &::placeholder { /* Chrome, Firefox, Opera, Safari 10.1+ */
+                    color: var(--text);
+                    opacity: 1; /* Firefox */
+                  }
+            }
+
+            .wpcf7-not-valid-tip{
+                padding-left: 24px;
+            }
+
+        }
+        >div{
+            margin-bottom: 16px;
+            
+            position: relative;
+            i{
+                position: absolute;
+                right: 0%;
+                top: 30px;
+                transform: translate(-24px, -50%);
+                &::before{
+                    color: var(--light);
+                    font-size: 24px;
+                  
+                }
+            }
+        }
+
+        .options{
+            select:not([size]):not([multiple]){
+                padding-left: 24px;
+                border-radius: 100px;
+                padding-top: 17px;
+                padding-bottom: 17px;
+
+                background-image: unset;
+                &::after{
+                    content: ' \00A7';
+                }
+            }
+        }
+        .ova-submit{
+            button{  
+                padding-top: 17px;
+                padding-bottom: 17px;
+                width: 100%;
+                border-radius: 100px;
+            }
+            .wpcf7-spinner{
+                margin-top: 15px;
+            }
+        }
+        
+    }
+
+    form.invalid{
+        .contact-form{
+            span{
+                textarea{
+                    height: 170px;
+                }
+            }
+        }
+    }
+}

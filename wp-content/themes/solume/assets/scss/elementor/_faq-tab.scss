@@ -1,0 +1,186 @@
+.ova-tabs{
+    position: relative;
+    display: flex;  
+    @media (max-width: 1024px){
+      display: block;
+    } 
+    .tab-title{
+        width: 30%;
+        display: block;
+        @media (max-width: 1024px){
+            display: none;
+        }
+        
+        .title{
+            
+            border-radius: 20px;
+            padding: 32px 28px;
+            background-color: #FAEEED;
+            margin-bottom: 40px;
+            .item-title{
+                font-weight: 600;
+                border-radius: 10px;
+                margin-bottom: 10px;
+                @include transaction(all, .3s, ease-out);
+                .faq-title{
+                    cursor: pointer;
+                    border-radius: 10px;
+                    padding: 11px 16px;
+                    color: var(--heading);
+                    @include transaction(all, .3s, ease-in);
+
+                    @media (max-width: 1024px){
+                        border: 1px solid var(--primary);
+                    }
+                }
+                &:hover{
+                    @include transaction(all, .3s, ease-in);
+
+                    .faq-title{
+                        @include transaction(all, .3s, ease-in);
+
+                        color: #fff;
+                        background-color: var(--primary);
+                        box-shadow: 0px 1px 45px rgba(0, 0, 0, 0.07);
+                    } 
+                }
+
+                &.active_title{
+                   
+                    .faq-title{
+                        background-color: var(--primary);
+                        box-shadow: 0px 1px 45px rgba(0, 0, 0, 0.07);
+                        color: #FFFFFF;
+                        border-color: transparent;
+                    }
+
+                }
+            }    
+        }
+
+        .ova-contact-info{
+            display: block;
+            background: #FFFFFF;
+            box-shadow: 0px 1px 45px #00000012;
+            border-radius: 20px;
+            padding: 32px 28px;
+            .label{
+                margin-bottom: 13px;
+            }
+            .info{
+                .item{
+                    margin-bottom: 8px;
+                        .contact-title{
+                            font-weight: 600;
+                            color: var(--heading);
+                        }
+                        .content{
+                            font-weight: 400;
+                        }
+                    a{
+                        &:hover{
+                            color: var(--primary-hover);
+                        }
+                    }
+                    
+                }
+            }
+        }
+    }
+
+    .tab-content{
+        padding-left: 80px;
+        width: 70%;
+        overflow: hidden;
+
+        .item-content{
+            display: none;
+            @media (max-width: 1024px){
+                display: block;
+            }
+            position: absolute;
+            opacity: 0;
+            display: none;
+            @include transaction(all, .3s, ease-out);
+
+
+            &.active_content{
+                @include transaction(all, .3s, ease-in);
+                position: relative;
+                opacity: 1;
+                display: block;  
+            }
+        }
+
+        .item-title{
+            cursor: pointer;
+            padding: 15px;
+            display: none !important;
+
+            &.active_title{
+                .icon-active{
+                    display: block;
+                }
+                .icon{
+                    display: none;
+                }
+            }
+           
+            @media (max-width: 1024px){
+                display: block !important;
+            }
+
+            .icon-active{
+                display: none;
+            }
+            
+            .icon{
+                display: none;
+            }
+
+            .faq-title{
+                display: none;
+                // padding: 15px;
+                @media (max-width: 1024px){
+                    display: block;
+                    color: var(--heading);
+                    font-weight: 600;
+                }
+            }
+           
+        }
+
+        @media (max-width: 1024px){
+            width: 100%;
+            padding-left: 0px;
+            display: block;
+            position: relative;
+            opacity: 1;
+            .item-title{
+                display: flex !important;
+                justify-content: space-between;
+                align-items: center;
+                position: relative;
+                z-index: 5;
+                
+                box-shadow: 0px 1px 45px rgb(0 0 0 / 7%);
+                border-radius: 10px;
+
+                &.active_title{
+                    background-color: var(--primary);
+                    box-shadow: 0px 1px 45px rgb(0 0 0 / 7%);
+                    color: #FFFFFF;
+                    border-color: transparent;
+                    border-radius: 10px;
+                }
+
+                .icon{
+                    display: block;
+                }
+                
+            }
+        }
+
+    }
+
+}

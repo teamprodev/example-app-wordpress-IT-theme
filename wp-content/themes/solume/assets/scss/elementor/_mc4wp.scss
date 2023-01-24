@@ -1,0 +1,168 @@
+.mc4wp-style-1{
+    .ova-mc4wp-form{
+        position: relative;
+        .name{
+            display: none;
+        }
+        .email {
+            display: flex;
+            align-items: center;
+            width: 100%;
+            i{
+                display: none;
+            }
+            input{
+                border-radius: unset;
+                border-left: unset;
+                padding-left: 24px;
+                font-style: normal;
+                font-weight: 400;
+                font-size: var(--font-size);
+                color: var(--light);
+                width: 100%;
+                border-radius: 100px;
+                padding-top: 17px;
+                padding-bottom: 17px;
+                &::placeholder { /* Chrome, Firefox, Opera, Safari 10.1+ */
+                    color: var(--light);
+                    opacity: 1; /* Firefox */
+                  }
+            }
+        }
+
+        .submit{
+            position: absolute;
+            right: 0%;
+            top: 50%;
+            transform: translate(-4px, -50%);
+            button{
+                border-radius: 50%;
+                padding: 15px;
+                span{
+                    display: none;
+                }
+                &:hover{
+                    background-color: var(--secondary-hover);
+                    border-color: var(--secondary-hover) ;
+                }
+            }
+            i{
+                display: flex;
+                cursor: pointer;
+                &:before{
+                    color: #FFFFFF;
+                    font-size: 20px;
+                }
+            }
+        }
+    }
+    .mc4wp-response{
+        p{
+            color: #FFFFFF;
+            margin: 15px 0px;
+        }
+    }
+}
+
+.mc4wp-style-2{
+    @media (max-width: 767px){
+        width: 100%;
+    }
+    form{
+       
+        .ova-mc4wp-form{
+            display: flex;
+            justify-content: center;
+            align-items: center;
+            column-gap: 24px;
+            position: relative;
+            max-width: 918px;
+            margin: auto;
+
+            @media (max-width: 767px){
+                max-width: unset;
+                flex-flow: column;
+            }
+            .name,
+            .email {
+                
+                width: 35%;
+                @media only screen and (max-width: 1024px) and (min-width: 768px)  {
+                    width: 30%;
+                }
+                @media (max-width: 767px){
+                    width: 100%;
+                    margin-bottom: 30px;
+                }
+                display: flex;
+                position: relative;
+               
+                i{
+                    
+                    position: absolute;
+                    right: 0%;
+                    top: 50%;
+                    transform: translate(-24px, -50%);
+                    &:before{
+                        color: var(--light);
+                        font-size: 21px;
+                    }
+                }
+                input{
+                    border-radius: 100px;
+                    border: unset;
+                    padding-left: 24px;
+                    font-style: normal;
+                    font-weight: 400;
+                    font-size: var(--font-size);
+                    width: 100%;
+                    color: var(--text);
+                    padding-top: 17px;
+                    padding-bottom: 17px;
+                    &::placeholder { /* Chrome, Firefox, Opera, Safari 10.1+ */
+                        color: var(--text);
+                        opacity: 1; /* Firefox */
+
+                    }
+                }
+            }
+            .submit{
+                
+                position: relative;
+                
+                button{
+                    display: flex;
+                    justify-content: center;
+                    align-items: center;
+                    padding-left: 42px;
+                    padding-right: 42px;
+                    border-radius: 100px;
+                    width: 100%;
+                    padding-top: 17px;
+                    padding-bottom: 17px;
+                    &:hover{
+                        background-color: var(--secondary-hover);
+                        border-color: var(--secondary-hover) ;
+                        color: #FFFFFF;
+                    }
+                    i{
+                        padding-right: 8px;
+                        &::before{
+                            font-size: 21px;
+                        }
+                    }
+                }
+            }
+        }
+        .mc4wp-response{
+            max-width: 918px;
+            margin: auto;
+            padding-top: 15px;
+            text-align: center;
+            p{
+                color: #FFFFFF;
+                margin-bottom: 15px;
+            }
+        }
+    }  
+}

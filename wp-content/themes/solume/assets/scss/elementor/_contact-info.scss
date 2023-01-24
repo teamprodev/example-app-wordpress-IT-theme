@@ -1,0 +1,81 @@
+.ova-contact-info{
+	display: flex;
+
+	.contact{
+		.label{
+			margin: 0;
+            font-size: 24px;
+            color: var(--heading);
+			border-bottom: 1px solid var(--border-color);
+			padding-bottom: 15px;
+		}
+		.info{
+			list-style-type: none;
+			padding: 0;
+			margin: 0;
+			.item{
+				display: flex;
+				transition: all 0.3s linear;
+				align-items: center;
+				padding: 8px 0;
+				p{
+					transition: all 0.3s linear;
+					margin-bottom: 0;
+				}
+				a {
+					color: var(--text);
+					&:hover{
+						color: var(--primary-hover);
+					}
+				}
+				.content{
+					font-weight: 700;
+				}
+				svg{
+					width: 24px;
+					height: auto;
+					margin-right: 10px;
+					path{
+						fill: var(--text);
+						@include transaction( all, 0.6s, ease);
+					}
+				}
+				.ova-phone{
+					display: block;
+					align-items: center;
+				}
+				.ova-link{
+					display: block;
+    				align-items: center;
+					.content{
+						font-weight: 400;
+					}
+				}
+				i{
+					
+					margin-right: 15px;
+					color: var(--primary) ;
+					font-size: 24px;
+
+					//version 2
+					justify-content: center;
+					align-items: center;
+					display: flex;
+					// border: 1px solid #fe71464d;
+					// width: 46px;
+					// height: 46px;
+					// border-radius: 100px;
+					&::before{
+						display: flex;
+						justify-content: center;
+						align-items: center;
+						// border-radius: 100px;
+						// background: var(--primary);
+					}
+				}
+					
+			}
+			
+		}
+	}
+}

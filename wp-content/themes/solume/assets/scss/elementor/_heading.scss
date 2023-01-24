@@ -1,0 +1,33 @@
+.ova-title{
+    text-align: center;
+    .sub-title{
+        color: var(--primary);
+        font-size: var(--font);
+        text-transform: uppercase;
+        font-weight: 600;
+        line-height: 1;
+        margin: 0;
+        margin-bottom: 28px;
+    }
+    .title{
+        color: var(--heading);
+        font-family: var(--primary-font);
+        font-size: 40px;
+        font-weight: 700;
+        line-height: 1.2;
+        margin: 0;
+        margin-bottom: 25px;
+        a{
+            color: var(--heading);
+            @include transaction(all, .3s, ease);
+            &:hover{
+                color: var(--primary-hover);
+                @include transaction(all, .3s, ease);
+            }
+        }  
+    }
+    .description{
+        margin: 0;
+        margin-bottom: 15px;
+    }
+}
